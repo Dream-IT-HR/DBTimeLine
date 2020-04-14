@@ -4,9 +4,9 @@ using Framework.DBTimeLine;
 using System.Collections.Generic;
 using Customizations.Flyinline.StoredProcedures;
 
-namespace Customizations.Identity
+namespace Customizations.Flyinline
 {
-    public class IdentityModule : DBModule
+    public partial class FlyinlineModule : DBModule
     {
         public override string ModuleKey
         {
@@ -15,7 +15,7 @@ namespace Customizations.Identity
                 return "FlyinlineERM";
             }
         }
-        public IdentityModule()
+        public FlyinlineModule()
         {
             DefaultSchemaName = "Flyinline";
         }
@@ -28,6 +28,18 @@ namespace Customizations.Identity
             if (DefaultSchemaName != "dbo") sch.AddRevision(new DBRevision(rev));
 
             UserDetail(sch);
+            
+            Organization(sch);
+            Line(sch);
+            LineEmployee(sch);
+            LineEmployeeInvited(sch);
+            LineEmployeeAccepted(sch);
+            Country(sch);
+            LineLocation(sch);
+            LinePhoto(sch);
+            BusinessDay(sch);
+            LineBusinessHour(sch);
+            LineStatus(sch);
 
             ClearDbForTesting.Create(sch);
 
@@ -77,6 +89,8 @@ namespace Customizations.Identity
             sch.AddRevision(new DBRevision(new DateTime(2019, 9, 9), 0, eDBRevisionType.AlwaysExecuteTask, FillClaims));
             sch.AddRevision(new DBRevision(new DateTime(2019, 9, 10), 0, eDBRevisionType.AlwaysExecuteTask, FillRoles));
             sch.AddRevision(new DBRevision(new DateTime(2019, 9, 30), 0, eDBRevisionType.AlwaysExecuteTask, FillRolePermissions));
+
+            sch.AddRevision(new DBRevision(new DateTime(2020, 4, 14), 3, eDBRevisionType.AlwaysExecuteTask, FillBusinessDays));
         }
 
         #region Tasks

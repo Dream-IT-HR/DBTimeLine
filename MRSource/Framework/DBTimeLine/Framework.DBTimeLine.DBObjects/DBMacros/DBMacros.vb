@@ -38,6 +38,10 @@ Public Class DBMacros
         Return New DBFieldDescriptor() With {.FieldType = New DBFieldTypeBoolean, .Nullable = True}
     End Function
 
+    Public Shared Function DBFieldDateTimeDescriptor(nullable As Boolean) As DBFieldDescriptor
+        Return New DBFieldDescriptor() With {.FieldType = New DBFieldTypeDatetime, .Nullable = nullable}
+    End Function
+
     Public Shared Function DBFieldIDDescriptor(nullable As Boolean) As DBFieldDescriptor
         Return New DBFieldDescriptor() With {.FieldType = New DBFieldTypeGuid, .Nullable = nullable}
     End Function
@@ -50,6 +54,13 @@ Public Class DBMacros
         Return New DBFieldDescriptor() With {.FieldType = New DBFieldTypeBoolean, .Nullable = nullable}
     End Function
 
+    Public Shared Function DBFieldLongTextDescriptor(nullable As Boolean) As DBFieldDescriptor
+        Return New DBFieldDescriptor() With {.FieldType = New DBFieldTypeNvarchar, .Nullable = nullable, .Size = -1}
+    End Function
+
+    Public Shared Function DBFieldIntegerDescriptor(nullable As Boolean) As DBFieldDescriptor
+        Return New DBFieldDescriptor() With {.FieldType = New DBFieldTypeInteger, .Nullable = nullable, .DefaultValue = "0"}
+    End Function
 #End Region
 
     Public Shared Function AddForeignKeyFieldID(fieldName As String, nullable As Boolean, table As IDBTable, pkFullTableName As String, rev As DBRevision) As IDBField

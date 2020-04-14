@@ -98,3 +98,16 @@ C:\Projects\DbTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Ca
 C:\Projects\DbTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Caching\obj\Debug\MRFramework.MRPersisting.Cache.dll
 C:\Projects\DbTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Caching\obj\Debug\MRFramework.MRPersisting.Cache.xml
 C:\Projects\DbTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Caching\obj\Debug\MRFramework.MRPersisting.Cache.pdb
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Caching\bin\Debug\MRFramework.MRPersisting.Cache.dll
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Caching\bin\Debug\MRFramework.MRPersisting.Cache.pdb
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Caching\bin\Debug\MRFramework.MRPersisting.Cache.xml
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Caching\bin\Debug\MRFramework.MRCore.MRCache.dll
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Caching\bin\Debug\MRFramework.MRCore.MRCache.pdb
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Caching\bin\Debug\MRFramework.MRCore.MRCache.xml
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Caching\obj\Debug\MRFramework.MRPersisting.Cache.vbprojAssemblyReference.cache
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Caching\obj\Debug\MRFramework.MRPersisting.Cache.Resources.resources
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Caching\obj\Debug\MRFramework.MRPersisting.Cache.vbproj.GenerateResource.cache
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Caching\obj\Debug\MRFramework.MRPersisting.Cache.vbproj.CopyComplete
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Caching\obj\Debug\MRFramework.MRPersisting.Cache.dll
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Caching\obj\Debug\MRFramework.MRPersisting.Cache.xml
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Caching\obj\Debug\MRFramework.MRPersisting.Cache.pdb

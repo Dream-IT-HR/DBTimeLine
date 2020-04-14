@@ -66,3 +66,11 @@ C:\Projects\DbTimeLine\MRSource\Framework\Core\MRFramework.MRCore\obj\Debug\MRFr
 C:\Projects\DbTimeLine\MRSource\Framework\Core\MRFramework.MRCore\obj\Debug\MRFramework.MRCore.xml
 C:\Projects\DbTimeLine\MRSource\Framework\Core\MRFramework.MRCore\obj\Debug\MRFramework.MRCore.pdb
 C:\Projects\DbTimeLine\MRSource\Framework\Core\MRFramework.MRCore\obj\Debug\MRFramework.MRCore.vbprojAssemblyReference.cache
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Core\MRFramework.MRCore\bin\Debug\MRFramework.MRCore.dll
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Core\MRFramework.MRCore\bin\Debug\MRFramework.MRCore.pdb
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Core\MRFramework.MRCore\bin\Debug\MRFramework.MRCore.xml
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Core\MRFramework.MRCore\obj\Debug\MRFramework.MRCore.Resources.resources
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Core\MRFramework.MRCore\obj\Debug\MRFramework.MRCore.vbproj.GenerateResource.cache
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Core\MRFramework.MRCore\obj\Debug\MRFramework.MRCore.dll
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Core\MRFramework.MRCore\obj\Debug\MRFramework.MRCore.xml
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Core\MRFramework.MRCore\obj\Debug\MRFramework.MRCore.pdb

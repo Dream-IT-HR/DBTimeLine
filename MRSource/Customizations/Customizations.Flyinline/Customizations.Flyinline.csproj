@@ -41,6 +41,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LineBusinessHours.cs" />
+    <Compile Include="LineStatus.cs" />
+    <Compile Include="LinePhoto.cs" />
+    <Compile Include="LineLocation.cs" />
+    <Compile Include="LineEmployeeAccepted.cs" />
+    <Compile Include="LineEmployeeInvited.cs" />
+    <Compile Include="LineEmployee.cs" />
+    <Compile Include="Line.cs" />
+    <Compile Include="Country.cs" />
+    <Compile Include="BusinessDay.cs" />
+    <Compile Include="Organization.cs" />
     <Compile Include="StoredProcedures\ClearDbForTesting.cs" />
     <Compile Include="DBObjects\DBStoredProcedure.cs" />
     <Compile Include="DBObjects\DBStoredProcedureDescriptor.cs" />
@@ -61,6 +72,9 @@
       <Project>{a224372a-ea51-4c7f-a280-6e9937875451}</Project>
       <Name>Customizations.Core</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entities\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <PropertyGroup>

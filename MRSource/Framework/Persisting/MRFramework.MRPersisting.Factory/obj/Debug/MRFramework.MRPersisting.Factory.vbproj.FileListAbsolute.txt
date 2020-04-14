@@ -66,3 +66,11 @@ C:\Projects\DbTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Fa
 C:\Projects\DbTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Factory\obj\Debug\MRFramework.MRPersisting.Factory.dll
 C:\Projects\DbTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Factory\obj\Debug\MRFramework.MRPersisting.Factory.xml
 C:\Projects\DbTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Factory\obj\Debug\MRFramework.MRPersisting.Factory.pdb
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Factory\bin\Debug\MRFramework.MRPersisting.Factory.dll
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Factory\bin\Debug\MRFramework.MRPersisting.Factory.pdb
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Factory\bin\Debug\MRFramework.MRPersisting.Factory.xml
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Factory\obj\Debug\MRFramework.MRPersisting.Factory.Resources.resources
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Factory\obj\Debug\MRFramework.MRPersisting.Factory.vbproj.GenerateResource.cache
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Factory\obj\Debug\MRFramework.MRPersisting.Factory.dll
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Factory\obj\Debug\MRFramework.MRPersisting.Factory.xml
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Factory\obj\Debug\MRFramework.MRPersisting.Factory.pdb

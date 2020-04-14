@@ -74,3 +74,16 @@ C:\Projects\DbTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Co
 C:\Projects\DbTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Core\obj\Debug\MRFramework.MRPersisting.Core.dll
 C:\Projects\DbTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Core\obj\Debug\MRFramework.MRPersisting.Core.xml
 C:\Projects\DbTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Core\obj\Debug\MRFramework.MRPersisting.Core.pdb
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Core\bin\Debug\MRFramework.MRPersisting.Core.dll
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Core\bin\Debug\MRFramework.MRPersisting.Core.pdb
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Core\bin\Debug\MRFramework.MRPersisting.Core.xml
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Core\bin\Debug\MRFramework.MRCore.dll
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Core\bin\Debug\MRFramework.MRCore.pdb
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Core\bin\Debug\MRFramework.MRCore.xml
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Core\obj\Debug\MRFramework.MRPersisting.Core.vbprojAssemblyReference.cache
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Core\obj\Debug\MRFramework.MRPersisting.Core.Resources.resources
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Core\obj\Debug\MRFramework.MRPersisting.Core.vbproj.GenerateResource.cache
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Core\obj\Debug\MRFramework.MRPersisting.Core.vbproj.CopyComplete
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Core\obj\Debug\MRFramework.MRPersisting.Core.dll
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Core\obj\Debug\MRFramework.MRPersisting.Core.xml
+C:\Source\Dream-IT\DBTimeLine\MRSource\Framework\Persisting\MRFramework.MRPersisting.Core\obj\Debug\MRFramework.MRPersisting.Core.pdb
